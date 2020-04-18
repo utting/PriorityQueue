@@ -34,7 +34,7 @@ this order:
   - Ford, Anat, Rein, Wu, Sasha, Ben
   
   
-  #Binary Heap
+  # Binary Heap
   
 The patient queue is a specific application of a well-known abstract data type called a priority
 queue. You can think of a priority queue as a sorted queue where the elements are sorted
@@ -54,7 +54,7 @@ One very desirable feature of a binary heap is that the frontmost element (the o
 - that is a parent (item at index i) is always in front of its children (item at index i*2 and i*2 + 1). For that matter, we always just need to dequeue (remove) the first element. This way, we don't need to worry about sorting the queue in order of priority. All we need to worry about is the minimun heap order is mantained at all times. 
 
 
-#Dequeue
+# Dequeue
 
 Removing (dequeuing) an element from a heap is done by replacing the element at index 1
 with the element from the last occupied index of the array and then ”bubbling down” that
@@ -67,7 +67,7 @@ a parent is larger than either/both children, it belongs behind it, so the small
 children must be swapped with the parent. If after swapping, the element that moved behind is still larger than either/both children, it must swap again. The element continues swapping toward the back until it settles in the proper position and heap order has been restored.
 
 
-#Change Priority
+# Change Priority
 
 To change the priority of an existing element in a binary heap, you must first loop over the
 entire heap to find the element. Once found, you set its new priority and then ”bubble” the
@@ -80,7 +80,7 @@ If you find this repo useful to you, feel free to modify and or use it directly 
 
 Note: Most of this readMe description comes from a program assignment description for an assigment I did in my last year of computer science minor with few modifications and additions included. All the code was implement by me. 
 
-#Created with love by Emanuel Inacio
+  # Created with love by Emanuel Inacio
 
 
 
