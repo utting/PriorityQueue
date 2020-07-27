@@ -1,5 +1,5 @@
   # PriorityQueue
-  A PriorityQueue implementation in java with minimum heap
+  A PriorityQueue implementation in java with a binary minimum heap
 
   Data structures is a very important concept in software development and computer science in general. There are several data structures and one of them is Queue. A queue is a data structure that holds data in order of insertion and provides a method of accessing data in first-in, first-out order (FIFO) - now you can tell why British English Speakers say "queue" rather than "line". In other words, items in a queue can only be accessed in order of insertion with those inserted first being accessed before those inserted last. The most useful operations on a queue are usually adding an item to the top of the queue (enqueue), removing an item from the top of the queue(dequeue) and accessing the top element of the queue without removing it 
 (peek).
@@ -16,6 +16,7 @@ element coming out last.
 
   For example, if the following patients arrive at the hospital in this order and the priority
 they are assigned is shown in parentheses:
+
   -”Anat” (4)
   
   - ”Ben” (9)
