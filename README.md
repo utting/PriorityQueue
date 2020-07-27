@@ -17,7 +17,7 @@ element coming out last.
   For example, if the following patients arrive at the hospital in this order and the priority
 they are assigned is shown in parentheses:
 
-   -”Anat” (4) 
+  - ”Anat” (4) 
    
   - ”Ben” (9)
   
