@@ -26,6 +26,8 @@ they are assigned is shown in parentheses:
   - ”Sasha” (8)
   
   - ”Wu” (7)
+  
+  -”Anat” (4) 
 
   - Rein” (6)
 
