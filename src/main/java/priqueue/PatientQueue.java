@@ -17,6 +17,8 @@
  *
  */
 
+package priqueue;
+
 public class PatientQueue {
 
     private int capacity;

@@ -1,3 +1,4 @@
+package priqueue;
 
 public class Patient {
 
@@ -9,8 +10,8 @@ public class Patient {
         this.priority = priority;
     }
 
-	public String toString() {
-			return name + " (" + priority + ")";
-		}
+    public String toString() {
+        return name + " (" + priority + ")";
+    }
 
 }
